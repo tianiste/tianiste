@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://raw.githubusercontent.com/tianiste/tianiste/main/gh-banner.png" />
+   <img src="https://raw.githubusercontent.com/tianiste/tianiste/main/github-banner.png" />
 </p>
 
 <h2 align="center">Tian Istenič</h2>
